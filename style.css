@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+div.first{
+    margin: 50px;
+    font-size: 1rem;
+}
+
+hr{
+    width: 700px;
+ size: 500px;
+ font-weight: 100px;
+ color: black;
+ margin-left: 400px;
+}
+
+div.navbar{
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px 0px;
+    
+}
+
+
+
+a.first{
+    color: red;
+    text-align: center;
+  
+    
+}
+a{
+   
+   text-decoration: none;
+ font-size: 1rem;
+ padding: 0px 44px;
+ font-size: 1.4rem;
+ 
+ 
+}
+
+
+
+
+p{
+  
+   margin-top: 40px;
+    font-size: 2rem;
+    text-align: center;
+    font-family: Font;
+ font-weight: 200;
+ width: 1300px;
+ padding-left: 260px;
+}
+h3{
+    font-size: 1rem;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+div.second{
+    margin-left: 350px;
+}
+img.pic{
+    width: 270px;
+    height: 200px;
+
+
+}
+@font-face {
+    font-family: Font;
+    src: url(./static/Montserrat-LightItalic.ttf);
+}
